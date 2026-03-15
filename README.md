@@ -1,8 +1,8 @@
-# Olá 👋
+# Bem-vindo ao repositório de Mariana.
 
 💻 **Focada em Banco de Dados & Desenvolvimento Back-End**  
 🌟 **Java é minha paixão**, mas também trabalho com C e estou aprendendo Python.  
-🗄️ Experiência com **SQL**, **HTML**, **CSS**, e atualmente aprendendo **JavaScript** e **Python**.  
+🗄️ Experiência com **SQL**, **HTML**, **CSS**, ***C***,***JAVA***e atualmente aprendendo **JavaScript** e **Python**.  
 
 ---
 
